@@ -15,6 +15,7 @@ public class prova1 {
          int b = 2;
          a=a+b;
          System.out.print("Nuova riga subMaster per prova merge ");
-         System.out.println("Stampa il numero : " + a);
+         System.out.print("Nuova riga di prova");
+         System.out.println("Stampa il numero : " + a);   
      }
 }
