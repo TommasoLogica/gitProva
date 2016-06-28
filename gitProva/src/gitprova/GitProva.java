@@ -16,8 +16,8 @@ public class GitProva {
      */
     public static void main(String[] args) {
         int a = 4;
-        System.out.print("Prova");
-        System.out.print(a);
+        System.out.print("Prova ");
+        System.out.println(a);
         prova1 pr = new prova1();
         pr.stampa();
         
