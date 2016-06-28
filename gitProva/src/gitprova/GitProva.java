@@ -15,8 +15,9 @@ public class GitProva {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+        int a = 4;
         System.out.print("Prova");
-        System.out.print("Prova");
+        System.out.print(a);
     }
     
 }
