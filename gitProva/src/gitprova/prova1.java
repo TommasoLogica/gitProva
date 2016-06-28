@@ -11,7 +11,7 @@ package gitprova;
  */
 public class prova1 {
      public void stampa(){
-         System.out.print("Stampa il metodo");
-         int a = 3 ; 
+         int a = 1 ; 
+         System.out.print("Stampa il metodo" + a);
      }
 }
