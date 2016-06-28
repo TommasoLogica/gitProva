@@ -18,8 +18,8 @@ public class GitProva {
         int a = 4;
         System.out.print("Prova ");
         System.out.println(a);
-        prova1 pr = new prova1();
-        pr.stampa();
+        prova1 pr1 = new prova1();
+        pr1.stampa();
         
     }
     
