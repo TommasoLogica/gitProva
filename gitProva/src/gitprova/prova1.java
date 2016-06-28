@@ -14,6 +14,6 @@ public class prova1 {
          int a = 1 ;
          int b = 2;
          a=a+b;
-         System.out.println("Stampa il metodo : " + a);
+         System.out.println("Stampa il numero : " + a);
      }
 }
