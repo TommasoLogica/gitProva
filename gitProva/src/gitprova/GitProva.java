@@ -20,6 +20,7 @@ public class GitProva {
         System.out.print(a);
         prova1 pr = new prova1();
         pr.stampa();
+        
     }
     
 }
