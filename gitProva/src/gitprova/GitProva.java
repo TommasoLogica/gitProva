@@ -20,6 +20,7 @@ public class GitProva {
         System.out.print("Prova ");
         System.out.println(a+b);
         prova1 pr1 = new prova1();
+        System.out.print("Nuova riga subMaster per prova merge");
         pr1.stampa();
         
     }
